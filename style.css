@@ -95,7 +95,7 @@ a[target="_blank"]::after {
     margin-left: 5px;
     vertical-align: middle;
 }
-a[heaf^="mailto:"]::after {
+a[target="_mail:"]::after {
     content: url(img/ico_mail.png);
     margin-left: 5px;
     vertical-align: middle;
@@ -118,4 +118,7 @@ a[heaf^="mailto:"]::after {
     content: "";
     display: block;
     clear: both;
+}
+.img-round {
+    border-radius: 50%;
 }
