@@ -1,0 +1,11 @@
+#container{
+    background-color: #fff;
+    margin:0 auto;
+    width: 980px;
+}
+body{
+    background-color: rgb(153, 210, 243);
+}
+.img-round{
+    border-radius: 50%;
+}
