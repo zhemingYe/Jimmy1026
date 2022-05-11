@@ -1,0 +1,18 @@
+nav{
+    background-color: rgb(236, 158, 13);
+    text-align: right;
+}
+nav li{
+    list-style-type: none;
+    display: inline-block;
+}
+nav li a{
+    display: block;
+    text-decoration: none;
+    padding: 15px;
+    color: aliceblue;
+}
+nav li a:hover{
+    background-color: rgb(77, 233, 77);
+    color: red
+}
