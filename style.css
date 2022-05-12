@@ -122,24 +122,3 @@ a[target="_mail:"]::after {
 .img-round {
     border-radius: 50%;
 }
-nav{
-    background-color: rgb(97, 164, 240);
-    text-align: right;
-}
-nav ul{
-    margin: 0px;
-}
-nav li{
-    list-style-type: none;
-    display: inline-block;
-}
-nav li a{
-    display: block;
-    text-decoration: none;
-    padding: 15px;
-    color: aliceblue;
-}
-nav li a:hover{
-    background-color: rgb(77, 233, 77);
-    color: red
-}
