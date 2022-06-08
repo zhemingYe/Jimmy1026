@@ -69,3 +69,8 @@
     max-height: 100vh;
     padding: 1em;
   }
+  
+  .about-bottom{
+      display: block;
+      width: 100px;
+  }
