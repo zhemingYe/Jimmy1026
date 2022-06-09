@@ -1,0 +1,4 @@
+.food-menu-item:hover{
+    animation: pulse;
+    animation-duration: 1s;
+}
